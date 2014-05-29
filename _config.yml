@@ -35,7 +35,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Todo
-    url: /todo.md
+    url: /todo
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
