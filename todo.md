@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /todo/
 title: TODO
 description: "Things needed to do"
 comments: true
