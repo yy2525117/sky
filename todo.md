@@ -1,14 +1,11 @@
 ---
 layout: page
-permalink: /todo/
 title: TODO
 description: "Things needed to do"
-tags: [todo]
+comments: true
+share: true
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-share: true
 ---
 
 每一个优秀的人，都有一段沉默的时光。那一段时光，是付出了很多努力，忍受不解和冷漠，不抱怨不诉苦，日后说起时，连自己都能被感动的日子。每一个可以努力的日子，都是一份厚礼。
