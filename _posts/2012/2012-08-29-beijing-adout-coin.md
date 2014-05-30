@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 帝都那些事兒: 關于硬幣
+title: 帝都那些事兒之關于硬幣
 tags: [life]
-title: 帝都那些事兒: 關于硬幣
 comments: true
 share: true
 image:

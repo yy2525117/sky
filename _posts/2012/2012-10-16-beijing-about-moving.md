@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 帝都那些事兒: 租房搬家
+title: 帝都那些事兒之租房搬家
 tags: [life]
 comments: true
 share: true
@@ -27,5 +27,3 @@ image:
 就是這樣吧, 最後交了4000的違約金, 閃人!
 
 不以物喜, 不以己悲.
-
-你還可閱讀: [帝都那些事兒: 關于硬幣][http://cutemay.me/2012/08/beijing-adout-coin/]
