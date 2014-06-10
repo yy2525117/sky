@@ -7,7 +7,7 @@ tags: [life, travel]
 comments: true
 share: true
 image:
-  feature: abstract-2.jpg
+  feature: abstract-1.jpg
 ---
 仲夏清晨，夜幕褪去，古城長安漸漸醒來。
 
