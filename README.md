@@ -1,1 +1,1 @@
-http://mayitbe.net
+http://flysky.mayitbe.net
