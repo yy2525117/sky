@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 泡面时间
+title:泡面时间
 description: "time of Instant Noodle"
 modified: 2014-06-25
 tags: [life, travel]
