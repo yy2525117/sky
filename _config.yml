@@ -1,4 +1,4 @@
-title:            May it be
+title:            Flysky May it be
 description:      If equal affection cannot be, let the more loving one be me.
 disqus_shortname: mayitbe
 # Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -6,16 +6,16 @@ url:               http://flysky.mayitbe.net
 
 # Owner/author information
 owner:
-  name:           hfu
+  name:           liuzemin
   avatar:         avatar.jpg
-  bio:            "Hacking linux kernel."
-  email:          hfu@mayitbe.net
+  bio:            "A Freshman Now."
+  email:          liuzemin@mayitbe.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        askfuhu
+  twitter:        fly1990sky
   facebook:       
-  github:         fuhu
+  github:         liuzemin
   stackexchange:  
-  linkedin:       askfuhu
+  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
