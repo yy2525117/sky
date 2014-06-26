@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 毕业季是伤感的
+title: 毕业季是怀旧的
 description: "memory of past"
 modified: 2014-06-27
 tags: [lift,travel]
